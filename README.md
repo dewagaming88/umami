@@ -58,7 +58,7 @@ mysql://username:mypassword@localhost:3306/mydb
 
 The `HASH_SALT` is used to generate unique values for your installation.
 
-### Build the application
+### Build the application 
 
 ```bash
 npm run build
